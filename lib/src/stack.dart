@@ -1,9 +1,9 @@
 import 'dart:ui' show lerpDouble;
 
 import 'package:flutter/material.dart';
-import 'package:circular_chart_flutter/src/entry.dart';
-import 'package:circular_chart_flutter/src/segment.dart';
-import 'package:circular_chart_flutter/src/tween.dart';
+import 'package:circular_chart_flutter_new/src/entry.dart';
+import 'package:circular_chart_flutter_new/src/segment.dart';
+import 'package:circular_chart_flutter_new/src/tween.dart';
 
 const double _kMaxAngle = 360.0;
 
