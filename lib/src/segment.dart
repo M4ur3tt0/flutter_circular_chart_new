@@ -1,7 +1,7 @@
 import 'dart:ui';
 
 import 'package:flutter/material.dart';
-import 'package:circular_chart_flutter/src/tween.dart';
+import 'package:circular_chart_flutter_new/src/tween.dart';
 
 class CircularChartSegment extends MergeTweenable<CircularChartSegment> {
   CircularChartSegment(this.rank, this.sweepAngle, this.color);
